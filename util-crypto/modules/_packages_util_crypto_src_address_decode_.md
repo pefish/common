@@ -14,7 +14,7 @@
 
 ▸ **decode**(`encoded`: string | Uint8Array, `ignoreChecksum?`: undefined | false | true, `ss58Format`: [Prefix](_packages_util_crypto_src_address_types_.md#prefix)): *Uint8Array*
 
-*Defined in [packages/util-crypto/src/address/decode.ts:16](https://github.com/polkadot-js/common/blob/0a6bd414/packages/util-crypto/src/address/decode.ts#L16)*
+*Defined in [packages/util-crypto/src/address/decode.ts:16](https://github.com/polkadot-js/common/blob/1c6b4bfc/packages/util-crypto/src/address/decode.ts#L16)*
 
 **Parameters:**
 

@@ -14,7 +14,7 @@
 
 ▸ **hexToNumber**(`value?`: string | null): *number*
 
-*Defined in [packages/util/src/hex/toNumber.ts:21](https://github.com/polkadot-js/common/blob/0a6bd414/packages/util/src/hex/toNumber.ts#L21)*
+*Defined in [packages/util/src/hex/toNumber.ts:21](https://github.com/polkadot-js/common/blob/1c6b4bfc/packages/util/src/hex/toNumber.ts#L21)*
 
 **`name`** hexToNumber
 

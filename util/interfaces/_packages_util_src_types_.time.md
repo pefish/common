@@ -22,7 +22,7 @@
 
 • **days**: *number*
 
-*Defined in [packages/util/src/types.ts:45](https://github.com/polkadot-js/common/blob/0a6bd414/packages/util/src/types.ts#L45)*
+*Defined in [packages/util/src/types.ts:45](https://github.com/polkadot-js/common/blob/1c6b4bfc/packages/util/src/types.ts#L45)*
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 • **hours**: *number*
 
-*Defined in [packages/util/src/types.ts:46](https://github.com/polkadot-js/common/blob/0a6bd414/packages/util/src/types.ts#L46)*
+*Defined in [packages/util/src/types.ts:46](https://github.com/polkadot-js/common/blob/1c6b4bfc/packages/util/src/types.ts#L46)*
 
 ___
 
@@ -38,7 +38,7 @@ ___
 
 • **milliseconds**: *number*
 
-*Defined in [packages/util/src/types.ts:49](https://github.com/polkadot-js/common/blob/0a6bd414/packages/util/src/types.ts#L49)*
+*Defined in [packages/util/src/types.ts:49](https://github.com/polkadot-js/common/blob/1c6b4bfc/packages/util/src/types.ts#L49)*
 
 ___
 
@@ -46,7 +46,7 @@ ___
 
 • **minutes**: *number*
 
-*Defined in [packages/util/src/types.ts:47](https://github.com/polkadot-js/common/blob/0a6bd414/packages/util/src/types.ts#L47)*
+*Defined in [packages/util/src/types.ts:47](https://github.com/polkadot-js/common/blob/1c6b4bfc/packages/util/src/types.ts#L47)*
 
 ___
 
@@ -54,4 +54,4 @@ ___
 
 • **seconds**: *number*
 
-*Defined in [packages/util/src/types.ts:48](https://github.com/polkadot-js/common/blob/0a6bd414/packages/util/src/types.ts#L48)*
+*Defined in [packages/util/src/types.ts:48](https://github.com/polkadot-js/common/blob/1c6b4bfc/packages/util/src/types.ts#L48)*

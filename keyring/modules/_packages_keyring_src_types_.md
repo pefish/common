@@ -26,7 +26,7 @@
 
 Ƭ **KeyringPair$JsonEncodingTypes**: *"none" | "scrypt" | "xsalsa20-poly1305"*
 
-*Defined in [packages/keyring/src/types.ts:17](https://github.com/polkadot-js/common/blob/0a6bd414/packages/keyring/src/types.ts#L17)*
+*Defined in [packages/keyring/src/types.ts:17](https://github.com/polkadot-js/common/blob/1c6b4bfc/packages/keyring/src/types.ts#L17)*
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 Ƭ **KeyringPair$JsonVersion**: *"0" | "1" | "2" | "3"*
 
-*Defined in [packages/keyring/src/types.ts:15](https://github.com/polkadot-js/common/blob/0a6bd414/packages/keyring/src/types.ts#L15)*
+*Defined in [packages/keyring/src/types.ts:15](https://github.com/polkadot-js/common/blob/1c6b4bfc/packages/keyring/src/types.ts#L15)*
 
 ___
 
@@ -42,4 +42,4 @@ ___
 
 Ƭ **KeyringPair$Meta**: *Record‹string, unknown›*
 
-*Defined in [packages/keyring/src/types.ts:13](https://github.com/polkadot-js/common/blob/0a6bd414/packages/keyring/src/types.ts#L13)*
+*Defined in [packages/keyring/src/types.ts:13](https://github.com/polkadot-js/common/blob/1c6b4bfc/packages/keyring/src/types.ts#L13)*
