@@ -12,15 +12,16 @@
 
 ###  decode
 
-▸ **decode**(`passphrase?`: undefined | string, `encrypted?`: Uint8Array | null): *DecodeResult*
+▸ **decode**(`passphrase?`: undefined | string, `encrypted?`: Uint8Array | null, `encType`: [KeyringPair$JsonEncodingTypes](_packages_keyring_src_types_.md#keyringpairjsonencodingtypes)[]): *DecodeResult*
 
-*Defined in [packages/keyring/src/pair/decode.ts:44](https://github.com/polkadot-js/common/blob/d4e6ad55/packages/keyring/src/pair/decode.ts#L44)*
+*Defined in [packages/keyring/src/pair/decode.ts:46](https://github.com/polkadot-js/common/blob/0a6bd414/packages/keyring/src/pair/decode.ts#L46)*
 
 **Parameters:**
 
-Name | Type |
------- | ------ |
-`passphrase?` | undefined &#124; string |
-`encrypted?` | Uint8Array &#124; null |
+Name | Type | Default |
+------ | ------ | ------ |
+`passphrase?` | undefined &#124; string | - |
+`encrypted?` | Uint8Array &#124; null | - |
+`encType` | [KeyringPair$JsonEncodingTypes](_packages_keyring_src_types_.md#keyringpairjsonencodingtypes)[] | ['scrypt', 'xsalsa20-poly1305'] |
 
 **Returns:** *DecodeResult*

@@ -59,7 +59,7 @@
   }
 ]
 
-*Defined in [packages/keyring/src/testing.ts:24](https://github.com/polkadot-js/common/blob/d4e6ad55/packages/keyring/src/testing.ts#L24)*
+*Defined in [packages/keyring/src/testing.ts:24](https://github.com/polkadot-js/common/blob/0a6bd414/packages/keyring/src/testing.ts#L24)*
 
 ## Functions
 
@@ -67,7 +67,7 @@
 
 ▸ **testKeyring**(`options`: [KeyringOptions](../interfaces/_packages_keyring_src_types_.keyringoptions.md), `isDerived`: boolean): *[KeyringInstance](../interfaces/_packages_keyring_src_types_.keyringinstance.md)*
 
-*Defined in [packages/keyring/src/testing.ts:73](https://github.com/polkadot-js/common/blob/d4e6ad55/packages/keyring/src/testing.ts#L73)*
+*Defined in [packages/keyring/src/testing.ts:73](https://github.com/polkadot-js/common/blob/0a6bd414/packages/keyring/src/testing.ts#L73)*
 
 **`name`** testKeyring
 

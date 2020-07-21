@@ -14,7 +14,7 @@
 
 ▸ **secp256k1Verify**(`message`: Uint8Array | string, `signature`: Uint8Array | string, `address`: Uint8Array | string): *boolean*
 
-*Defined in [packages/util-crypto/src/secp256k1/verify.ts:16](https://github.com/polkadot-js/common/blob/d4e6ad55/packages/util-crypto/src/secp256k1/verify.ts#L16)*
+*Defined in [packages/util-crypto/src/secp256k1/verify.ts:16](https://github.com/polkadot-js/common/blob/0a6bd414/packages/util-crypto/src/secp256k1/verify.ts#L16)*
 
 **`name`** secp256k1Verify
 

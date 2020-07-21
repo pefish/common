@@ -14,7 +14,7 @@
 
 ▸ **encodeDerivedAddress**(`who`: Uint8Array | string, `index`: BigInt | BN | number, `ss58Format?`: [Prefix](_packages_util_crypto_src_address_types_.md#prefix)): *string*
 
-*Defined in [packages/util-crypto/src/address/encodeDerived.ts:19](https://github.com/polkadot-js/common/blob/d4e6ad55/packages/util-crypto/src/address/encodeDerived.ts#L19)*
+*Defined in [packages/util-crypto/src/address/encodeDerived.ts:19](https://github.com/polkadot-js/common/blob/0a6bd414/packages/util-crypto/src/address/encodeDerived.ts#L19)*
 
 **`name`** encodeDerivedAddress
 

@@ -19,7 +19,7 @@
 
 • **publicKey**: *Uint8Array*
 
-*Defined in [packages/util-crypto/src/types.ts:11](https://github.com/polkadot-js/common/blob/d4e6ad55/packages/util-crypto/src/types.ts#L11)*
+*Defined in [packages/util-crypto/src/types.ts:11](https://github.com/polkadot-js/common/blob/0a6bd414/packages/util-crypto/src/types.ts#L11)*
 
 ___
 
@@ -27,4 +27,4 @@ ___
 
 • **seed**: *Uint8Array*
 
-*Defined in [packages/util-crypto/src/types.ts:12](https://github.com/polkadot-js/common/blob/d4e6ad55/packages/util-crypto/src/types.ts#L12)*
+*Defined in [packages/util-crypto/src/types.ts:12](https://github.com/polkadot-js/common/blob/0a6bd414/packages/util-crypto/src/types.ts#L12)*

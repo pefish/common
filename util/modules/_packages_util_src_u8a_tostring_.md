@@ -14,7 +14,7 @@
 
 ▸ **u8aToString**(`value?`: Uint8Array | null): *string*
 
-*Defined in [packages/util/src/u8a/toString.ts:35](https://github.com/polkadot-js/common/blob/d4e6ad55/packages/util/src/u8a/toString.ts#L35)*
+*Defined in [packages/util/src/u8a/toString.ts:35](https://github.com/polkadot-js/common/blob/0a6bd414/packages/util/src/u8a/toString.ts#L35)*
 
 **`name`** u8aToString
 
