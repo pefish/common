@@ -17,6 +17,8 @@
   0, 1,
   // Kusama
   2, 3,
+  // Katal Chain
+  4,
   // Kulupu
   16, 17,
   // Dothereum
@@ -27,4 +29,4 @@
   68, 69
 ]
 
-*Defined in [packages/util-crypto/src/address/ss58.ts:5](https://github.com/polkadot-js/common/blob/1c6b4bfc/packages/util-crypto/src/address/ss58.ts#L5)*
+*Defined in [packages/util-crypto/src/address/ss58.ts:5](https://github.com/polkadot-js/common/blob/91340577/packages/util-crypto/src/address/ss58.ts#L5)*
