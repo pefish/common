@@ -14,7 +14,7 @@
 
 ▸ **bufferToU8a**(`buffer?`: Buffer | number[] | null): *Uint8Array*
 
-*Defined in [packages/util/src/buffer/toU8a.ts:19](https://github.com/polkadot-js/common/blob/91340577/packages/util/src/buffer/toU8a.ts#L19)*
+*Defined in [packages/util/src/buffer/toU8a.ts:19](https://github.com/polkadot-js/common/blob/88ecda70/packages/util/src/buffer/toU8a.ts#L19)*
 
 **`name`** bufferToU8a
 

@@ -14,7 +14,7 @@
 
 ▸ **isJsonObject**(`value`: unknown): *value is ObjectIndexed*
 
-*Defined in [packages/util/src/is/jsonObject.ts:34](https://github.com/polkadot-js/common/blob/91340577/packages/util/src/is/jsonObject.ts#L34)*
+*Defined in [packages/util/src/is/jsonObject.ts:34](https://github.com/polkadot-js/common/blob/88ecda70/packages/util/src/is/jsonObject.ts#L34)*
 
 **`name`** isJsonObject
 

@@ -14,7 +14,7 @@
 
 ▸ **min**(...`items`: BN[]): *BN*
 
-*Defined in [packages/util/src/bn/min.ts:22](https://github.com/polkadot-js/common/blob/91340577/packages/util/src/bn/min.ts#L22)*
+*Defined in [packages/util/src/bn/min.ts:22](https://github.com/polkadot-js/common/blob/88ecda70/packages/util/src/bn/min.ts#L22)*
 
 **`name`** bnMin
 
