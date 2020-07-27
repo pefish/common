@@ -22,7 +22,7 @@
 
 • **debug**: *function*
 
-*Defined in [packages/util/src/types.ts:27](https://github.com/polkadot-js/common/blob/88ecda70/packages/util/src/types.ts#L27)*
+*Defined in [packages/util/src/types.ts:27](https://github.com/polkadot-js/common/blob/db61ea30/packages/util/src/types.ts#L27)*
 
 #### Type declaration:
 
@@ -40,7 +40,7 @@ ___
 
 • **error**: *function*
 
-*Defined in [packages/util/src/types.ts:28](https://github.com/polkadot-js/common/blob/88ecda70/packages/util/src/types.ts#L28)*
+*Defined in [packages/util/src/types.ts:28](https://github.com/polkadot-js/common/blob/db61ea30/packages/util/src/types.ts#L28)*
 
 #### Type declaration:
 
@@ -58,7 +58,7 @@ ___
 
 • **log**: *function*
 
-*Defined in [packages/util/src/types.ts:29](https://github.com/polkadot-js/common/blob/88ecda70/packages/util/src/types.ts#L29)*
+*Defined in [packages/util/src/types.ts:29](https://github.com/polkadot-js/common/blob/db61ea30/packages/util/src/types.ts#L29)*
 
 #### Type declaration:
 
@@ -76,7 +76,7 @@ ___
 
 • **noop**: *function*
 
-*Defined in [packages/util/src/types.ts:30](https://github.com/polkadot-js/common/blob/88ecda70/packages/util/src/types.ts#L30)*
+*Defined in [packages/util/src/types.ts:30](https://github.com/polkadot-js/common/blob/db61ea30/packages/util/src/types.ts#L30)*
 
 #### Type declaration:
 
@@ -94,7 +94,7 @@ ___
 
 • **warn**: *function*
 
-*Defined in [packages/util/src/types.ts:31](https://github.com/polkadot-js/common/blob/88ecda70/packages/util/src/types.ts#L31)*
+*Defined in [packages/util/src/types.ts:31](https://github.com/polkadot-js/common/blob/db61ea30/packages/util/src/types.ts#L31)*
 
 #### Type declaration:
 

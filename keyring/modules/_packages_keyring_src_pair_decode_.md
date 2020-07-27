@@ -14,7 +14,7 @@
 
 ▸ **decode**(`passphrase?`: undefined | string, `encrypted?`: Uint8Array | null, `encType`: [KeyringPair$JsonEncodingTypes](_packages_keyring_src_types_.md#keyringpairjsonencodingtypes)[]): *DecodeResult*
 
-*Defined in [packages/keyring/src/pair/decode.ts:46](https://github.com/polkadot-js/common/blob/88ecda70/packages/keyring/src/pair/decode.ts#L46)*
+*Defined in [packages/keyring/src/pair/decode.ts:46](https://github.com/polkadot-js/common/blob/db61ea30/packages/keyring/src/pair/decode.ts#L46)*
 
 **Parameters:**
 

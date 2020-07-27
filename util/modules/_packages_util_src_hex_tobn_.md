@@ -14,7 +14,7 @@
 
 ▸ **hexToBn**(`value?`: string | number | null, `options`: [ToBnOptions](../interfaces/_packages_util_src_types_.tobnoptions.md) | boolean): *BN*
 
-*Defined in [packages/util/src/hex/toBn.ts:35](https://github.com/polkadot-js/common/blob/88ecda70/packages/util/src/hex/toBn.ts#L35)*
+*Defined in [packages/util/src/hex/toBn.ts:35](https://github.com/polkadot-js/common/blob/db61ea30/packages/util/src/hex/toBn.ts#L35)*
 
 **`name`** hexToBn
 

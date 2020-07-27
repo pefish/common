@@ -14,7 +14,7 @@
 
 ▸ **base58Validate**(`value`: string): *true*
 
-*Defined in [packages/util-crypto/src/base58/validate.ts:13](https://github.com/polkadot-js/common/blob/88ecda70/packages/util-crypto/src/base58/validate.ts#L13)*
+*Defined in [packages/util-crypto/src/base58/validate.ts:13](https://github.com/polkadot-js/common/blob/db61ea30/packages/util-crypto/src/base58/validate.ts#L13)*
 
 **`name`** base58Validate
 
