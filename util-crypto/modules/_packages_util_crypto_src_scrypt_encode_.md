@@ -14,7 +14,7 @@
 
 ▸ **scryptEncode**(`passphrase?`: Uint8Array | string, `salt`: Uint8Array‹›, `params`: object): *Result*
 
-*Defined in [packages/util-crypto/src/scrypt/encode.ts:19](https://github.com/polkadot-js/common/blob/08817d19/packages/util-crypto/src/scrypt/encode.ts#L19)*
+*Defined in [packages/util-crypto/src/scrypt/encode.ts:19](https://github.com/polkadot-js/common/blob/a0251ff6/packages/util-crypto/src/scrypt/encode.ts#L19)*
 
 **Parameters:**
 

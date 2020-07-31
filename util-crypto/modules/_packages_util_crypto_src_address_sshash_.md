@@ -14,7 +14,7 @@
 
 ▸ **hash**(`key`: Uint8Array): *Uint8Array*
 
-*Defined in [packages/util-crypto/src/address/sshash.ts:11](https://github.com/polkadot-js/common/blob/08817d19/packages/util-crypto/src/address/sshash.ts#L11)*
+*Defined in [packages/util-crypto/src/address/sshash.ts:11](https://github.com/polkadot-js/common/blob/a0251ff6/packages/util-crypto/src/address/sshash.ts#L11)*
 
 **Parameters:**
 

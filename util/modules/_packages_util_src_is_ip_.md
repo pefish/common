@@ -14,7 +14,7 @@
 
 ▸ **isIp**(`value`: string, `type?`: IpTypes): *boolean*
 
-*Defined in [packages/util/src/is/ip.ts:26](https://github.com/polkadot-js/common/blob/08817d19/packages/util/src/is/ip.ts#L26)*
+*Defined in [packages/util/src/is/ip.ts:26](https://github.com/polkadot-js/common/blob/a0251ff6/packages/util/src/is/ip.ts#L26)*
 
 **`name`** isIp
 

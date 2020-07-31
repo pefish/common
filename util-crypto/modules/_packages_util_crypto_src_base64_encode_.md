@@ -14,7 +14,7 @@
 
 ▸ **base58Encode**(`value`: Uint8Array | string | Buffer | number[]): *string*
 
-*Defined in [packages/util-crypto/src/base64/encode.ts:13](https://github.com/polkadot-js/common/blob/08817d19/packages/util-crypto/src/base64/encode.ts#L13)*
+*Defined in [packages/util-crypto/src/base64/encode.ts:13](https://github.com/polkadot-js/common/blob/a0251ff6/packages/util-crypto/src/base64/encode.ts#L13)*
 
 **`name`** base64Encode
 
