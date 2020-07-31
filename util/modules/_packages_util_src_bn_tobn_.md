@@ -14,7 +14,7 @@
 
 ▸ **bnToBn**‹**ExtToBn**›(`value?`: ExtToBn | BN | BigInt | string | number | null): *BN*
 
-*Defined in [packages/util/src/bn/toBn.ts:30](https://github.com/polkadot-js/common/blob/e845132d/packages/util/src/bn/toBn.ts#L30)*
+*Defined in [packages/util/src/bn/toBn.ts:30](https://github.com/polkadot-js/common/blob/08817d19/packages/util/src/bn/toBn.ts#L30)*
 
 **`name`** bnToBn
 

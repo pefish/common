@@ -14,7 +14,7 @@
 
 ▸ **max**(...`items`: BN[]): *BN*
 
-*Defined in [packages/util/src/bn/max.ts:22](https://github.com/polkadot-js/common/blob/e845132d/packages/util/src/bn/max.ts#L22)*
+*Defined in [packages/util/src/bn/max.ts:22](https://github.com/polkadot-js/common/blob/08817d19/packages/util/src/bn/max.ts#L22)*
 
 **`name`** bnMax
 
