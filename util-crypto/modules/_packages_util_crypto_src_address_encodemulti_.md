@@ -12,9 +12,9 @@
 
 ###  encodeMultiAddress
 
-▸ **encodeMultiAddress**(`who`: string | Uint8Array‹›[], `threshold`: BigInt | BN | number, `ss58Format?`: [Prefix](_packages_util_crypto_src_address_types_.md#prefix)): *string*
+▸ **encodeMultiAddress**(`who`: (string | Uint8Array‹›)[], `threshold`: BigInt | BN | number, `ss58Format?`: [Prefix](_packages_util_crypto_src_address_types_.md#prefix)): *string*
 
-*Defined in [packages/util-crypto/src/address/encodeMulti.ts:18](https://github.com/polkadot-js/common/blob/a0251ff6/packages/util-crypto/src/address/encodeMulti.ts#L18)*
+*Defined in [packages/util-crypto/src/address/encodeMulti.ts:18](https://github.com/polkadot-js/common/blob/437314e5/packages/util-crypto/src/address/encodeMulti.ts#L18)*
 
 **`name`** encodeMultiAddress
 
@@ -27,7 +27,7 @@ Creates a Substrate multisig address based on the input address and the required
 
 Name | Type |
 ------ | ------ |
-`who` | string &#124; Uint8Array‹›[] |
+`who` | (string &#124; Uint8Array‹›)[] |
 `threshold` | BigInt &#124; BN &#124; number |
 `ss58Format?` | [Prefix](_packages_util_crypto_src_address_types_.md#prefix) |
 

@@ -14,7 +14,7 @@
 
 ▸ **scryptToU8a**(`salt`: Uint8Array, `__namedParameters`: object): *Uint8Array*
 
-*Defined in [packages/util-crypto/src/scrypt/toU8a.ts:9](https://github.com/polkadot-js/common/blob/a0251ff6/packages/util-crypto/src/scrypt/toU8a.ts#L9)*
+*Defined in [packages/util-crypto/src/scrypt/toU8a.ts:9](https://github.com/polkadot-js/common/blob/437314e5/packages/util-crypto/src/scrypt/toU8a.ts#L9)*
 
 **Parameters:**
 

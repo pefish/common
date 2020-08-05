@@ -14,7 +14,7 @@
 
 ▸ **isObservable**(`value`: unknown): *value is Observable*
 
-*Defined in [packages/util/src/is/observable.ts:27](https://github.com/polkadot-js/common/blob/a0251ff6/packages/util/src/is/observable.ts#L27)*
+*Defined in [packages/util/src/is/observable.ts:27](https://github.com/polkadot-js/common/blob/437314e5/packages/util/src/is/observable.ts#L27)*
 
 **`name`** isBObservable
 

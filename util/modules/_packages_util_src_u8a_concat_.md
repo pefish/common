@@ -12,9 +12,9 @@
 
 ###  u8aConcat
 
-▸ **u8aConcat**(...`list`: string | Uint8Array‹›[]): *Uint8Array*
+▸ **u8aConcat**(...`list`: (string | Uint8Array‹›)[]): *Uint8Array*
 
-*Defined in [packages/util/src/u8a/concat.ts:24](https://github.com/polkadot-js/common/blob/a0251ff6/packages/util/src/u8a/concat.ts#L24)*
+*Defined in [packages/util/src/u8a/concat.ts:24](https://github.com/polkadot-js/common/blob/437314e5/packages/util/src/u8a/concat.ts#L24)*
 
 **`name`** u8aConcat
 
@@ -39,6 +39,6 @@ u8aConcat(
 
 Name | Type |
 ------ | ------ |
-`...list` | string &#124; Uint8Array‹›[] |
+`...list` | (string &#124; Uint8Array‹›)[] |
 
 **Returns:** *Uint8Array*

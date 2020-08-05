@@ -12,15 +12,15 @@
 
 ###  sortAddresses
 
-▸ **sortAddresses**(`addresses`: string | Uint8Array‹›[], `ss58Format?`: [Prefix](_packages_util_crypto_src_address_types_.md#prefix)): *string[]*
+▸ **sortAddresses**(`addresses`: (string | Uint8Array‹›)[], `ss58Format?`: [Prefix](_packages_util_crypto_src_address_types_.md#prefix)): *string[]*
 
-*Defined in [packages/util-crypto/src/address/sort.ts:12](https://github.com/polkadot-js/common/blob/a0251ff6/packages/util-crypto/src/address/sort.ts#L12)*
+*Defined in [packages/util-crypto/src/address/sort.ts:12](https://github.com/polkadot-js/common/blob/437314e5/packages/util-crypto/src/address/sort.ts#L12)*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`addresses` | string &#124; Uint8Array‹›[] |
+`addresses` | (string &#124; Uint8Array‹›)[] |
 `ss58Format?` | [Prefix](_packages_util_crypto_src_address_types_.md#prefix) |
 
 **Returns:** *string[]*

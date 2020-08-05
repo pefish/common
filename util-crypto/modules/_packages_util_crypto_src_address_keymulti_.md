@@ -12,15 +12,15 @@
 
 ###  createKeyMulti
 
-▸ **createKeyMulti**(`who`: string | Uint8Array‹›[], `threshold`: BigInt | BN | number): *Uint8Array*
+▸ **createKeyMulti**(`who`: (string | Uint8Array‹›)[], `threshold`: BigInt | BN | number): *Uint8Array*
 
-*Defined in [packages/util-crypto/src/address/keyMulti.ts:13](https://github.com/polkadot-js/common/blob/a0251ff6/packages/util-crypto/src/address/keyMulti.ts#L13)*
+*Defined in [packages/util-crypto/src/address/keyMulti.ts:13](https://github.com/polkadot-js/common/blob/437314e5/packages/util-crypto/src/address/keyMulti.ts#L13)*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`who` | string &#124; Uint8Array‹›[] |
+`who` | (string &#124; Uint8Array‹›)[] |
 `threshold` | BigInt &#124; BN &#124; number |
 
 **Returns:** *Uint8Array*
