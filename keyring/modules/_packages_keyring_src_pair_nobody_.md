@@ -14,6 +14,6 @@
 
 ▸ **everybody**(): *[KeyringPair](../interfaces/_packages_keyring_src_types_.keyringpair.md)*
 
-*Defined in [packages/keyring/src/pair/nobody.ts:26](https://github.com/polkadot-js/common/blob/45c2afae/packages/keyring/src/pair/nobody.ts#L26)*
+*Defined in [packages/keyring/src/pair/nobody.ts:26](https://github.com/polkadot-js/common/blob/038ef42f/packages/keyring/src/pair/nobody.ts#L26)*
 
 **Returns:** *[KeyringPair](../interfaces/_packages_keyring_src_types_.keyringpair.md)*

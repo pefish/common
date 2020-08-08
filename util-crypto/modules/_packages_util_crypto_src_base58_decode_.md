@@ -14,7 +14,7 @@
 
 ▸ **base58Decode**(`value`: string): *Uint8Array*
 
-*Defined in [packages/util-crypto/src/base58/decode.ts:16](https://github.com/polkadot-js/common/blob/45c2afae/packages/util-crypto/src/base58/decode.ts#L16)*
+*Defined in [packages/util-crypto/src/base58/decode.ts:16](https://github.com/polkadot-js/common/blob/038ef42f/packages/util-crypto/src/base58/decode.ts#L16)*
 
 **`name`** base58Decode
 

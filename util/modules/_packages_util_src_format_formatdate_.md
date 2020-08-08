@@ -14,7 +14,7 @@
 
 ▸ **formatDate**(`date`: Date): *string*
 
-*Defined in [packages/util/src/format/formatDate.ts:10](https://github.com/polkadot-js/common/blob/45c2afae/packages/util/src/format/formatDate.ts#L10)*
+*Defined in [packages/util/src/format/formatDate.ts:10](https://github.com/polkadot-js/common/blob/038ef42f/packages/util/src/format/formatDate.ts#L10)*
 
 **Parameters:**
 

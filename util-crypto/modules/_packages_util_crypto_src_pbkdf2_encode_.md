@@ -14,7 +14,7 @@
 
 ▸ **pbkdf2Encode**(`passphrase?`: Uint8Array | string, `salt`: Uint8Array‹›, `rounds`: number): *Result*
 
-*Defined in [packages/util-crypto/src/pbkdf2/encode.ts:17](https://github.com/polkadot-js/common/blob/45c2afae/packages/util-crypto/src/pbkdf2/encode.ts#L17)*
+*Defined in [packages/util-crypto/src/pbkdf2/encode.ts:17](https://github.com/polkadot-js/common/blob/038ef42f/packages/util-crypto/src/pbkdf2/encode.ts#L17)*
 
 **Parameters:**
 
