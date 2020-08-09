@@ -14,7 +14,7 @@
 
 ▸ **toJson**(`type`: KeypairType, `__namedParameters`: object, `encoded`: Uint8Array, `isEncrypted`: boolean): *[KeyringPair$Json](../interfaces/_packages_keyring_src_types_.keyringpair_json.md)*
 
-*Defined in [packages/keyring/src/pair/toJson.ts:18](https://github.com/polkadot-js/common/blob/0d03eac3/packages/keyring/src/pair/toJson.ts#L18)*
+*Defined in [packages/keyring/src/pair/toJson.ts:18](https://github.com/polkadot-js/common/blob/c5fe5cd8/packages/keyring/src/pair/toJson.ts#L18)*
 
 **Parameters:**
 
@@ -25,7 +25,7 @@
 Name | Type |
 ------ | ------ |
 `address` | string |
-`meta` | object |
+`meta` | Record‹string, unknown› |
 
 ▪ **encoded**: *Uint8Array*
 

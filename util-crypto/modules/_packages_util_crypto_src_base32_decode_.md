@@ -14,7 +14,7 @@
 
 ▸ **base32Decode**(`value`: string, `ipfsCompat`: boolean): *Uint8Array*
 
-*Defined in [packages/util-crypto/src/base32/decode.ts:27](https://github.com/polkadot-js/common/blob/0d03eac3/packages/util-crypto/src/base32/decode.ts#L27)*
+*Defined in [packages/util-crypto/src/base32/decode.ts:27](https://github.com/polkadot-js/common/blob/c5fe5cd8/packages/util-crypto/src/base32/decode.ts#L27)*
 
 **`name`** base32Decode
 

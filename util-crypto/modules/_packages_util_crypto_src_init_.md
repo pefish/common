@@ -15,7 +15,7 @@
 
 ▸ **cryptoIsReady**(): *boolean*
 
-*Defined in [packages/util-crypto/src/init.ts:7](https://github.com/polkadot-js/common/blob/0d03eac3/packages/util-crypto/src/init.ts#L7)*
+*Defined in [packages/util-crypto/src/init.ts:7](https://github.com/polkadot-js/common/blob/c5fe5cd8/packages/util-crypto/src/init.ts#L7)*
 
 **Returns:** *boolean*
 
@@ -25,6 +25,6 @@ ___
 
 ▸ **cryptoWaitReady**(): *Promise‹boolean›*
 
-*Defined in [packages/util-crypto/src/init.ts:11](https://github.com/polkadot-js/common/blob/0d03eac3/packages/util-crypto/src/init.ts#L11)*
+*Defined in [packages/util-crypto/src/init.ts:11](https://github.com/polkadot-js/common/blob/c5fe5cd8/packages/util-crypto/src/init.ts#L11)*
 
 **Returns:** *Promise‹boolean›*

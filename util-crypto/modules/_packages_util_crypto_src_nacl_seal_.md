@@ -14,7 +14,7 @@
 
 ▸ **naclSeal**(`message`: Uint8Array, `senderBoxSecret`: Uint8Array, `receiverBoxPublic`: Uint8Array, `nonce`: Uint8Array): *Sealed*
 
-*Defined in [packages/util-crypto/src/nacl/seal.ts:28](https://github.com/polkadot-js/common/blob/0d03eac3/packages/util-crypto/src/nacl/seal.ts#L28)*
+*Defined in [packages/util-crypto/src/nacl/seal.ts:28](https://github.com/polkadot-js/common/blob/c5fe5cd8/packages/util-crypto/src/nacl/seal.ts#L28)*
 
 **`name`** naclSeal
 

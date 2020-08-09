@@ -14,7 +14,7 @@
 
 ▸ **base32Encode**(`value`: Uint8Array | string | Buffer | number[], `ipfsCompat`: boolean): *string*
 
-*Defined in [packages/util-crypto/src/base32/encode.ts:19](https://github.com/polkadot-js/common/blob/0d03eac3/packages/util-crypto/src/base32/encode.ts#L19)*
+*Defined in [packages/util-crypto/src/base32/encode.ts:19](https://github.com/polkadot-js/common/blob/c5fe5cd8/packages/util-crypto/src/base32/encode.ts#L19)*
 
 **`name`** base32Encode
 

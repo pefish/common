@@ -20,7 +20,7 @@
 
 • **N**: *number*
 
-*Defined in [packages/util-crypto/src/scrypt/types.ts:6](https://github.com/polkadot-js/common/blob/0d03eac3/packages/util-crypto/src/scrypt/types.ts#L6)*
+*Defined in [packages/util-crypto/src/scrypt/types.ts:6](https://github.com/polkadot-js/common/blob/c5fe5cd8/packages/util-crypto/src/scrypt/types.ts#L6)*
 
 ___
 
@@ -28,7 +28,7 @@ ___
 
 • **p**: *number*
 
-*Defined in [packages/util-crypto/src/scrypt/types.ts:7](https://github.com/polkadot-js/common/blob/0d03eac3/packages/util-crypto/src/scrypt/types.ts#L7)*
+*Defined in [packages/util-crypto/src/scrypt/types.ts:7](https://github.com/polkadot-js/common/blob/c5fe5cd8/packages/util-crypto/src/scrypt/types.ts#L7)*
 
 ___
 
@@ -36,4 +36,4 @@ ___
 
 • **r**: *number*
 
-*Defined in [packages/util-crypto/src/scrypt/types.ts:8](https://github.com/polkadot-js/common/blob/0d03eac3/packages/util-crypto/src/scrypt/types.ts#L8)*
+*Defined in [packages/util-crypto/src/scrypt/types.ts:8](https://github.com/polkadot-js/common/blob/c5fe5cd8/packages/util-crypto/src/scrypt/types.ts#L8)*

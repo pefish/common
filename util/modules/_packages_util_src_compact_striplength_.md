@@ -14,7 +14,7 @@
 
 ▸ **compactStripLength**(`input`: Uint8Array, `bitLength`: [BitLength](_packages_util_src_compact_types_.md#bitlength)): *[number, Uint8Array]*
 
-*Defined in [packages/util/src/compact/stripLength.ts:22](https://github.com/polkadot-js/common/blob/0d03eac3/packages/util/src/compact/stripLength.ts#L22)*
+*Defined in [packages/util/src/compact/stripLength.ts:22](https://github.com/polkadot-js/common/blob/c5fe5cd8/packages/util/src/compact/stripLength.ts#L22)*
 
 **`name`** compactStripLength
 
