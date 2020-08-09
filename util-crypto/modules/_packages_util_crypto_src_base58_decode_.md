@@ -12,9 +12,9 @@
 
 ###  base58Decode
 
-▸ **base58Decode**(`value`: string): *Uint8Array*
+▸ **base58Decode**(`value`: string, `ipfsCompat`: boolean): *Uint8Array*
 
-*Defined in [packages/util-crypto/src/base58/decode.ts:16](https://github.com/polkadot-js/common/blob/038ef42f/packages/util-crypto/src/base58/decode.ts#L16)*
+*Defined in [packages/util-crypto/src/base58/decode.ts:16](https://github.com/polkadot-js/common/blob/9d145e72/packages/util-crypto/src/base58/decode.ts#L16)*
 
 **`name`** base58Decode
 
@@ -25,8 +25,9 @@ From the provided input, decode the base58 and return the result as an `Uint8Arr
 
 **Parameters:**
 
-Name | Type |
------- | ------ |
-`value` | string |
+Name | Type | Default |
+------ | ------ | ------ |
+`value` | string | - |
+`ipfsCompat` | boolean | false |
 
 **Returns:** *Uint8Array*

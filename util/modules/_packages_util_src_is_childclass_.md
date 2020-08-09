@@ -14,7 +14,7 @@
 
 ▸ **isChildClass**‹**P**›(`Parent`: P, `Child?`: [Constructor](../interfaces/_packages_util_src_types_.constructor.md) | null | unknown): *Child is P*
 
-*Defined in [packages/util/src/is/childClass.ts:22](https://github.com/polkadot-js/common/blob/038ef42f/packages/util/src/is/childClass.ts#L22)*
+*Defined in [packages/util/src/is/childClass.ts:22](https://github.com/polkadot-js/common/blob/9d145e72/packages/util/src/is/childClass.ts#L22)*
 
 **`name`** isChildClass
 

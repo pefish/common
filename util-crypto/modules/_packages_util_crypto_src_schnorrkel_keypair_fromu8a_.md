@@ -14,7 +14,7 @@
 
 ▸ **schnorrkelKeypairFromU8a**(`full`: Uint8Array): *[Keypair](../interfaces/_packages_util_crypto_src_types_.keypair.md)*
 
-*Defined in [packages/util-crypto/src/schnorrkel/keypair/fromU8a.ts:10](https://github.com/polkadot-js/common/blob/038ef42f/packages/util-crypto/src/schnorrkel/keypair/fromU8a.ts#L10)*
+*Defined in [packages/util-crypto/src/schnorrkel/keypair/fromU8a.ts:10](https://github.com/polkadot-js/common/blob/9d145e72/packages/util-crypto/src/schnorrkel/keypair/fromU8a.ts#L10)*
 
 **Parameters:**
 

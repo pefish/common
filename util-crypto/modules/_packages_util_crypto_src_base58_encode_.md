@@ -12,9 +12,9 @@
 
 ###  base58Encode
 
-▸ **base58Encode**(`value`: Uint8Array | string | Buffer | number[]): *string*
+▸ **base58Encode**(`value`: Uint8Array | string | Buffer | number[], `ipfsCompat`: boolean): *string*
 
-*Defined in [packages/util-crypto/src/base58/encode.ts:15](https://github.com/polkadot-js/common/blob/038ef42f/packages/util-crypto/src/base58/encode.ts#L15)*
+*Defined in [packages/util-crypto/src/base58/encode.ts:15](https://github.com/polkadot-js/common/blob/9d145e72/packages/util-crypto/src/base58/encode.ts#L15)*
 
 **`name`** base58Encode
 
@@ -25,8 +25,9 @@ From the provided input, create the base58 and return the result as a string.
 
 **Parameters:**
 
-Name | Type |
------- | ------ |
-`value` | Uint8Array &#124; string &#124; Buffer &#124; number[] |
+Name | Type | Default |
+------ | ------ | ------ |
+`value` | Uint8Array &#124; string &#124; Buffer &#124; number[] | - |
+`ipfsCompat` | boolean | false |
 
 **Returns:** *string*
