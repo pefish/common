@@ -14,7 +14,7 @@
 
 ▸ **deriveHard**(`seed`: Uint8Array, `chainCode`: Uint8Array): *Uint8Array*
 
-*Defined in [packages/util-crypto/src/secp256k1/deriveHard.ts:11](https://github.com/polkadot-js/common/blob/9d145e72/packages/util-crypto/src/secp256k1/deriveHard.ts#L11)*
+*Defined in [packages/util-crypto/src/secp256k1/deriveHard.ts:11](https://github.com/polkadot-js/common/blob/0d03eac3/packages/util-crypto/src/secp256k1/deriveHard.ts#L11)*
 
 **Parameters:**
 

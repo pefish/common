@@ -20,7 +20,7 @@
 
 • **password**? : *undefined | string*
 
-*Defined in [packages/util-crypto/src/key/extractSuri.ts:11](https://github.com/polkadot-js/common/blob/9d145e72/packages/util-crypto/src/key/extractSuri.ts#L11)*
+*Defined in [packages/util-crypto/src/key/extractSuri.ts:11](https://github.com/polkadot-js/common/blob/0d03eac3/packages/util-crypto/src/key/extractSuri.ts#L11)*
 
 ___
 
@@ -28,7 +28,7 @@ ___
 
 • **path**: *[DeriveJunction](../classes/_packages_util_crypto_src_key_derivejunction_.derivejunction.md)[]*
 
-*Defined in [packages/util-crypto/src/key/extractSuri.ts:12](https://github.com/polkadot-js/common/blob/9d145e72/packages/util-crypto/src/key/extractSuri.ts#L12)*
+*Defined in [packages/util-crypto/src/key/extractSuri.ts:12](https://github.com/polkadot-js/common/blob/0d03eac3/packages/util-crypto/src/key/extractSuri.ts#L12)*
 
 ___
 
@@ -36,4 +36,4 @@ ___
 
 • **phrase**: *string*
 
-*Defined in [packages/util-crypto/src/key/extractSuri.ts:13](https://github.com/polkadot-js/common/blob/9d145e72/packages/util-crypto/src/key/extractSuri.ts#L13)*
+*Defined in [packages/util-crypto/src/key/extractSuri.ts:13](https://github.com/polkadot-js/common/blob/0d03eac3/packages/util-crypto/src/key/extractSuri.ts#L13)*

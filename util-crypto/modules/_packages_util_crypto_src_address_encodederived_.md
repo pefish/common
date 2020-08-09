@@ -14,11 +14,11 @@
 
 ▸ **encodeDerivedAddress**(`who`: Uint8Array | string, `index`: BigInt | BN | number, `ss58Format?`: [Prefix](_packages_util_crypto_src_address_types_.md#prefix)): *string*
 
-*Defined in [packages/util-crypto/src/address/encodeDerived.ts:19](https://github.com/polkadot-js/common/blob/9d145e72/packages/util-crypto/src/address/encodeDerived.ts#L19)*
+*Defined in [packages/util-crypto/src/address/encodeDerived.ts:19](https://github.com/polkadot-js/common/blob/0d03eac3/packages/util-crypto/src/address/encodeDerived.ts#L19)*
 
 **`name`** encodeDerivedAddress
 
-**`summary`** Creates a derived address.
+**`summary`** Creates a derived address as used in Substrate utility.
 
 **`description`** 
 Creates a Substrate derived address based on the input address/publicKey and the index supplied.

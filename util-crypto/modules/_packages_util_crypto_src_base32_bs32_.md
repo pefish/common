@@ -15,7 +15,7 @@
 
 • **BASE32_ALPHABET**: *"abcdefghijklmnopqrstuvwxyz234567"* = "abcdefghijklmnopqrstuvwxyz234567"
 
-*Defined in [packages/util-crypto/src/base32/bs32.ts:6](https://github.com/polkadot-js/common/blob/9d145e72/packages/util-crypto/src/base32/bs32.ts#L6)*
+*Defined in [packages/util-crypto/src/base32/bs32.ts:6](https://github.com/polkadot-js/common/blob/0d03eac3/packages/util-crypto/src/base32/bs32.ts#L6)*
 
 ___
 
@@ -23,4 +23,4 @@ ___
 
 • **BITS_PER_CHAR**: *5* = 5
 
-*Defined in [packages/util-crypto/src/base32/bs32.ts:7](https://github.com/polkadot-js/common/blob/9d145e72/packages/util-crypto/src/base32/bs32.ts#L7)*
+*Defined in [packages/util-crypto/src/base32/bs32.ts:7](https://github.com/polkadot-js/common/blob/0d03eac3/packages/util-crypto/src/base32/bs32.ts#L7)*

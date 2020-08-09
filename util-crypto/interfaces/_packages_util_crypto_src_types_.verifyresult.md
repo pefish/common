@@ -19,7 +19,7 @@
 
 • **crypto**: *"none" | [KeypairType](../modules/_packages_util_crypto_src_types_.md#keypairtype)*
 
-*Defined in [packages/util-crypto/src/types.ts:18](https://github.com/polkadot-js/common/blob/9d145e72/packages/util-crypto/src/types.ts#L18)*
+*Defined in [packages/util-crypto/src/types.ts:18](https://github.com/polkadot-js/common/blob/0d03eac3/packages/util-crypto/src/types.ts#L18)*
 
 ___
 
@@ -27,4 +27,4 @@ ___
 
 • **isValid**: *boolean*
 
-*Defined in [packages/util-crypto/src/types.ts:19](https://github.com/polkadot-js/common/blob/9d145e72/packages/util-crypto/src/types.ts#L19)*
+*Defined in [packages/util-crypto/src/types.ts:19](https://github.com/polkadot-js/common/blob/0d03eac3/packages/util-crypto/src/types.ts#L19)*

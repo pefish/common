@@ -14,7 +14,7 @@
 
 ▸ **isBuffer**(`value`: unknown): *value is Buffer*
 
-*Defined in [packages/util/src/is/buffer.ts:21](https://github.com/polkadot-js/common/blob/9d145e72/packages/util/src/is/buffer.ts#L21)*
+*Defined in [packages/util/src/is/buffer.ts:21](https://github.com/polkadot-js/common/blob/0d03eac3/packages/util/src/is/buffer.ts#L21)*
 
 **`name`** isBuffer
 
