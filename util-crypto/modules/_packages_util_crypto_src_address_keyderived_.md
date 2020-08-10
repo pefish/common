@@ -14,7 +14,7 @@
 
 ▸ **createKeyDerived**(`who`: Uint8Array | string, `index`: BigInt | BN | number): *Uint8Array*
 
-*Defined in [packages/util-crypto/src/address/keyDerived.ts:13](https://github.com/polkadot-js/common/blob/c5fe5cd8/packages/util-crypto/src/address/keyDerived.ts#L13)*
+*Defined in [packages/util-crypto/src/address/keyDerived.ts:13](https://github.com/polkadot-js/common/blob/64510af8/packages/util-crypto/src/address/keyDerived.ts#L13)*
 
 **Parameters:**
 

@@ -14,7 +14,7 @@
 
 ▸ **check**(`address`: string, `prefix`: [Prefix](_packages_util_crypto_src_address_types_.md#prefix)): *[boolean, string | null]*
 
-*Defined in [packages/util-crypto/src/address/check.ts:17](https://github.com/polkadot-js/common/blob/c5fe5cd8/packages/util-crypto/src/address/check.ts#L17)*
+*Defined in [packages/util-crypto/src/address/check.ts:17](https://github.com/polkadot-js/common/blob/64510af8/packages/util-crypto/src/address/check.ts#L17)*
 
 **`name`** checkAddress
 

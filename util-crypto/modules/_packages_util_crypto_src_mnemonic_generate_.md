@@ -18,7 +18,7 @@
 
 Ƭ **WordCount**: *12 | 15 | 18 | 21 | 24*
 
-*Defined in [packages/util-crypto/src/mnemonic/generate.ts:10](https://github.com/polkadot-js/common/blob/c5fe5cd8/packages/util-crypto/src/mnemonic/generate.ts#L10)*
+*Defined in [packages/util-crypto/src/mnemonic/generate.ts:10](https://github.com/polkadot-js/common/blob/64510af8/packages/util-crypto/src/mnemonic/generate.ts#L10)*
 
 ## Functions
 
@@ -26,7 +26,7 @@
 
 ▸ **mnemonicGenerate**(`numWords`: [WordCount](_packages_util_crypto_src_mnemonic_generate_.md#wordcount)): *string*
 
-*Defined in [packages/util-crypto/src/mnemonic/generate.ts:33](https://github.com/polkadot-js/common/blob/c5fe5cd8/packages/util-crypto/src/mnemonic/generate.ts#L33)*
+*Defined in [packages/util-crypto/src/mnemonic/generate.ts:33](https://github.com/polkadot-js/common/blob/64510af8/packages/util-crypto/src/mnemonic/generate.ts#L33)*
 
 **`name`** mnemonicGenerate
 
