@@ -14,7 +14,7 @@
 
 ▸ **scryptFromU8a**(`data`: Uint8Array): *Result*
 
-*Defined in [packages/util-crypto/src/scrypt/fromU8a.ts:16](https://github.com/polkadot-js/common/blob/64510af8/packages/util-crypto/src/scrypt/fromU8a.ts#L16)*
+*Defined in [packages/util-crypto/src/scrypt/fromU8a.ts:16](https://github.com/polkadot-js/common/blob/e487d0a4/packages/util-crypto/src/scrypt/fromU8a.ts#L16)*
 
 **Parameters:**
 

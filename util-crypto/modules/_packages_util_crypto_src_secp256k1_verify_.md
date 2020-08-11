@@ -12,9 +12,9 @@
 
 ###  secp256k1Verify
 
-▸ **secp256k1Verify**(`message`: Uint8Array | string, `signature`: Uint8Array | string, `address`: Uint8Array | string): *boolean*
+▸ **secp256k1Verify**(`message`: Uint8Array | string, `signature`: Uint8Array | string, `address`: Uint8Array | string, `hashType`: [HashType](_packages_util_crypto_src_secp256k1_types_.md#hashtype)): *boolean*
 
-*Defined in [packages/util-crypto/src/secp256k1/verify.ts:16](https://github.com/polkadot-js/common/blob/64510af8/packages/util-crypto/src/secp256k1/verify.ts#L16)*
+*Defined in [packages/util-crypto/src/secp256k1/verify.ts:19](https://github.com/polkadot-js/common/blob/e487d0a4/packages/util-crypto/src/secp256k1/verify.ts#L19)*
 
 **`name`** secp256k1Verify
 
@@ -22,10 +22,11 @@
 
 **Parameters:**
 
-Name | Type |
------- | ------ |
-`message` | Uint8Array &#124; string |
-`signature` | Uint8Array &#124; string |
-`address` | Uint8Array &#124; string |
+Name | Type | Default |
+------ | ------ | ------ |
+`message` | Uint8Array &#124; string | - |
+`signature` | Uint8Array &#124; string | - |
+`address` | Uint8Array &#124; string | - |
+`hashType` | [HashType](_packages_util_crypto_src_secp256k1_types_.md#hashtype) | "blake2" |
 
 **Returns:** *boolean*

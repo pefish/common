@@ -14,7 +14,7 @@
 
 ▸ **isFunction**(`value`: unknown): *value is FnType*
 
-*Defined in [packages/util/src/is/function.ts:22](https://github.com/polkadot-js/common/blob/64510af8/packages/util/src/is/function.ts#L22)*
+*Defined in [packages/util/src/is/function.ts:22](https://github.com/polkadot-js/common/blob/e487d0a4/packages/util/src/is/function.ts#L22)*
 
 **`name`** isFunction
 
