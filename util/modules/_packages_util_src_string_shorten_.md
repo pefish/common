@@ -14,7 +14,7 @@
 
 ▸ **stringShorten**(`value`: string, `prefixLength`: number): *string*
 
-*Defined in [packages/util/src/string/shorten.ts:20](https://github.com/polkadot-js/common/blob/f5acd602/packages/util/src/string/shorten.ts#L20)*
+*Defined in [packages/util/src/string/shorten.ts:20](https://github.com/polkadot-js/common/blob/61b57687/packages/util/src/string/shorten.ts#L20)*
 
 **`name`** stringShorten
 
