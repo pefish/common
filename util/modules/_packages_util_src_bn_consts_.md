@@ -18,7 +18,7 @@
 
 • **BN_HUNDRED**: *BN* = new BN(100)
 
-*Defined in [packages/util/src/bn/consts.ts:29](https://github.com/polkadot-js/common/blob/61b57687/packages/util/src/bn/consts.ts#L29)*
+*Defined in [packages/util/src/bn/consts.ts:29](https://github.com/polkadot-js/common/blob/6e4a5281/packages/util/src/bn/consts.ts#L29)*
 
 **`name`** BN_HUNDRED
 
@@ -30,7 +30,7 @@ ___
 
 • **BN_ONE**: *BN* = new BN(1)
 
-*Defined in [packages/util/src/bn/consts.ts:17](https://github.com/polkadot-js/common/blob/61b57687/packages/util/src/bn/consts.ts#L17)*
+*Defined in [packages/util/src/bn/consts.ts:17](https://github.com/polkadot-js/common/blob/6e4a5281/packages/util/src/bn/consts.ts#L17)*
 
 **`name`** BN_ONE
 
@@ -42,7 +42,7 @@ ___
 
 • **BN_TEN**: *BN* = new BN(10)
 
-*Defined in [packages/util/src/bn/consts.ts:23](https://github.com/polkadot-js/common/blob/61b57687/packages/util/src/bn/consts.ts#L23)*
+*Defined in [packages/util/src/bn/consts.ts:23](https://github.com/polkadot-js/common/blob/6e4a5281/packages/util/src/bn/consts.ts#L23)*
 
 **`name`** BN_TEN
 
@@ -54,7 +54,7 @@ ___
 
 • **BN_THOUSAND**: *BN* = new BN(1000)
 
-*Defined in [packages/util/src/bn/consts.ts:35](https://github.com/polkadot-js/common/blob/61b57687/packages/util/src/bn/consts.ts#L35)*
+*Defined in [packages/util/src/bn/consts.ts:35](https://github.com/polkadot-js/common/blob/6e4a5281/packages/util/src/bn/consts.ts#L35)*
 
 **`name`** BN_THOUSAND
 
@@ -66,7 +66,7 @@ ___
 
 • **BN_ZERO**: *BN* = new BN(0)
 
-*Defined in [packages/util/src/bn/consts.ts:11](https://github.com/polkadot-js/common/blob/61b57687/packages/util/src/bn/consts.ts#L11)*
+*Defined in [packages/util/src/bn/consts.ts:11](https://github.com/polkadot-js/common/blob/6e4a5281/packages/util/src/bn/consts.ts#L11)*
 
 **`name`** BN_ZERO
 

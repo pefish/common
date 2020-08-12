@@ -14,7 +14,7 @@
 
 ▸ **addressEq**(`a`: string | Uint8Array, `b`: string | Uint8Array): *boolean*
 
-*Defined in [packages/util-crypto/src/address/eq.ts:23](https://github.com/polkadot-js/common/blob/61b57687/packages/util-crypto/src/address/eq.ts#L23)*
+*Defined in [packages/util-crypto/src/address/eq.ts:23](https://github.com/polkadot-js/common/blob/6e4a5281/packages/util-crypto/src/address/eq.ts#L23)*
 
 **`name`** addressEq
 
